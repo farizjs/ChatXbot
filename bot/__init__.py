@@ -60,9 +60,9 @@ UN_BAN_COMMAND = get_config("UN_BAN_COMMAND", "unban")
 START_COMMAND = get_config("START_COMMAND", "start")
 # default message in-case of None types
 DEFAULT_START_TEXT = (
-    "Hay, silahkan ketik pesanmu dibawah ini, nanti saya akan membalasanya Jika sudah online.\n"
+    "Hay, silahkan ketik pesanmu dibawah ini, nanti saya akan membalasanya Jika sudah online dan jangan spam ya😉.\n"
     "───────────────────────\n"
-    "©Manage by : @Vckyouubitch"
+    "©Manage by : @FJ_GAMING"
 )
 # /start message when other users start your bot
 START_OTHER_USERS_TEXT = int(get_config(
@@ -74,7 +74,7 @@ ONLINE_CHECK_START_TEXT = get_config(
     "ONLINE_CHECK_START_TEXT",
     (
         "Sistem berfungsi <b>master</b>\n"
-        "Jangan lupa join [Channel Support](https://t.me/Vckyouuu)"
+        "Spesial thanks to @FJ_GAMING"
     )
 )
 # message to indicate,
@@ -84,7 +84,7 @@ DELETED_MESSAGES_NOTIFICATION_TEXT = get_config(
     "DELETED_MESSAGES_NOTIFICATION_TEXT",
     (
         "Pesan ini sudah dihapus\n"
-        "Jangan lupa Join [Channel Support](https://t.me/Vckyouuu)"
+        "Semoga bermanfaat dengan botnya😊"
     )
 )
 # IDEKWBYRW
